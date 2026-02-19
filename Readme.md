@@ -27,7 +27,7 @@ The project analyzes warehouse inventory performance, stock levels, demand forec
 ---
 
 ## 🗂️ Project Structure
-
+```
 warehouse-inventory-project/
 │
 ├── data/
@@ -46,7 +46,7 @@ warehouse-inventory-project/
 │
 ├── requirements.txt
 └── README.md
-
+```
 ---
 
 ## 🛠️ Technologies Used
